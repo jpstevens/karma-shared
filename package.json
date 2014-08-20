@@ -1,0 +1,19 @@
+{
+  "name": "karma-shared",
+  "version": "0.2.0",
+  "description": "Shared behaviour for Karma, to help DRY your test suite.",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "./node_modules/karma/bin/karma start --single-run"
+  },
+  "author": "Jack Stevens <jack@applyr.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "^0.12.22",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
