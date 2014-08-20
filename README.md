@@ -1,4 +1,4 @@
-# mocha-shared
+# karma-shared
 [![Build Status](https://travis-ci.org/jpstevens/karma-shared.svg?branch=master)](https://travis-ci.org/jpstevens/karma-shared)
 
 Shared behaviour for Karma, to help DRY your test suite.
