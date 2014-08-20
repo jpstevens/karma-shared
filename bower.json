@@ -5,7 +5,7 @@
     "Jack Stevens <jack.stevens@fundingcircle.com>"
   ],
   "description": "Shared behaviour for Karma, to help DRY your test suite.",
-  "main": "lib/index.js",
+  "main": "lib/karma-shared.js",
   "keywords": [
     "shared",
     "behavior",
