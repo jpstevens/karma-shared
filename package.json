@@ -1,6 +1,6 @@
 {
   "name": "karma-shared",
-  "version": "0.0.0-pre1",
+  "version": "0.0.0-pre4",
   "description": "Shared behaviour for Karma, to help DRY your test suite.",
   "directories": {
     "test": "tests"

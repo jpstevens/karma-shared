@@ -9,7 +9,7 @@ Shared behaviour for Karma, to help DRY your test suite.
 
 In the root directory of your project, run the command:
 ```
-bower install karma-shared --save-dev
+npm install karma-shared --save-dev
 ```
 
 Then, in your `karma.conf.js` file, add:
@@ -17,8 +17,8 @@ Then, in your `karma.conf.js` file, add:
 ```javascript
 module.exports = function(config) {
   config.set({
-    files: [
-      './bower_components/karma-shared.js',
+    plugins: [
+      'karma-shared',
       // other files
     ],
     // more set-up...
