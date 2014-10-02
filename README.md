@@ -1,9 +1,10 @@
 # karma-shared
 [![Build Status](https://travis-ci.org/jpstevens/karma-shared.svg?branch=master)](https://travis-ci.org/jpstevens/karma-shared)
+![Downloads/month](http://img.shields.io/npm/dm/karma-shared.svg)
 
 Shared behaviour for Karma, to help DRY your test suite.
 
-**NOTE: ** This is a port of the [mocha-shared](https://www.npmjs.org/package/mocha-shared) package for NPM.
+**NOTE:** This is a port of the [mocha-shared](https://www.npmjs.org/package/mocha-shared) package for NPM.
 
 ## Installation
 
