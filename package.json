@@ -1,7 +1,8 @@
 {
   "name": "karma-shared",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Shared behaviour for Karma, to help DRY your test suite.",
+  "main": "./lib/index.js",
   "directories": {
     "test": "tests"
   },
